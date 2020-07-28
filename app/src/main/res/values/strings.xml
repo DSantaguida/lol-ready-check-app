@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">League Ready Check</string>
+    <string name="addressField">League Client Address</string>
+    <string name="button_text">Go</string>
+</resources>
